@@ -1,0 +1,7 @@
+{
+  "name": "apkjon",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
